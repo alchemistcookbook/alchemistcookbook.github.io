@@ -27,7 +27,7 @@
   "site": {
     "title": "Alchemist Cookbook",
     "description": "Extraordinary News & Information",
-    "logo": "logo1.png",
+    "logo": "/images/logo1.png",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
