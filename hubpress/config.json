@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://alchemistcookbook.github.io",
+    "hubpress": "https://alchemistcookbook.github.io",
+    "theme": "//alchemistcookbook.github.io/themes/casper",
+    "images": "https://alchemistcookbook.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
