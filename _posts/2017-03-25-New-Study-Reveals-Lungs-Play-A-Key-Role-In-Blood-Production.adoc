@@ -1,5 +1,5 @@
 = New Study Reveals Lungs Play A Key Role In Blood Production
-:hp-image: lung-header.jpg
+:hp-image: /images/lung-header.jpg
 :published_at: 2017-03-25
 :hp-tags: Health, Biology, Lungs, Blood
 :linkattrs:
@@ -8,7 +8,7 @@ A new study completed by scientists from the University of San Francisco, publis
 
 [[Lungs001]]
 .The Pulmonary Curcuit
-image::Pulmonary-Circuit.jpg[]
+image::/images/Pulmonary-Circuit.jpg[]
 +++<br>+++
 +++<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- test -->
@@ -36,7 +36,7 @@ Also interviewed was Guadalupe Ortiz-Muñoz, co-first author of the study. Guada
 </script><br>+++
 [[Lungs002]]
 .Thoracic Anatomy
-image::Thoracic-Anatomy.jpg[]
+image::/images/Thoracic-Anatomy.jpg[]
 +++<br>+++
 
 Here is a link to the study, published in Nature:
